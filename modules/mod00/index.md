@@ -17,3 +17,4 @@
 1. Entrevista [Portal Menina](https://portalmenina.com.br/balneario-camboriu/2020/04/01/entrevista-brasileiros-desenvolvem-respirador-de-baixo-custo-para-covid-19/).
 1. Carta ao [Ministro da Saúde](Gabinete_do_Ministro_Dr_Mandetta.pdf).
 1. Breve [histórico do grupo.](historico.pdf)
+1. Artigo [Época Negócios](https://epocanegocios.globo.com/Empresa/noticia/2020/04/coronavirus-engenheiros-brasileiros-transformam-mascaras-de-mergulho-em-respiradores-para-tratamento-de-pacientes.html)
