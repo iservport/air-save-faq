@@ -67,21 +67,23 @@ por favor, faça ou solicite uma atualização.
 
 [Patentes e organização](modules/mod00/index.md)
 
-[Módulo 1](modules/mod01/index.md): Ozonizador e filtro UV-C
+[Processo](process/index.md)
 
-[Módulo 2](modules/mod02/index.md): Compressor de ar
+[Módulo 1](modules/mod01/index.md): Ozonizador e filtro UV-C - [projeto](https://github.com/iservport/air-save-faq/projects/1).
 
-[Módulo 3](modules/mod03/index.md): Filtro zeólita
+[Módulo 2](modules/mod02/index.md): Compressor de ar - [projeto](https://github.com/iservport/air-save-faq/projects/2).
 
-[Módulo 4](modules/mod04/index.md): Misturador com o filtro de carvão ativado
+[Módulo 3](modules/mod03/index.md): Filtro zeólita - [projeto](https://github.com/iservport/air-save-faq/projects/3).
 
-[Módulo 5](modules/mod05/index.md): Ventilador FOLE
+[Módulo 4](modules/mod04/index.md): Misturador com o filtro de carvão ativado - [projeto](https://github.com/iservport/air-save-faq/projects/4).
 
-[Módulo 6](modules/mod06/index.md): Máscara com umidificador
+[Módulo 5](modules/mod05/index.md): Ventilador FOLE - [projeto](https://github.com/iservport/air-save-faq/projects/5).
 
-[Módulo 7](modules/mod07/index.md): filtro UV-C
+[Módulo 6](modules/mod06/index.md): Máscara com umidificador - [projeto](https://github.com/iservport/air-save-faq/projects/6).
 
-[Módulo 8](modules/mod08/index.md): Sistema eletrônico de controle e monitoramento
+[Módulo 7](modules/mod07/index.md): filtro UV-C - [projeto](https://github.com/iservport/air-save-faq/projects/7).
+
+[Módulo 8](modules/mod08/index.md): Sistema eletrônico de controle e monitoramento - [projeto](https://github.com/iservport/air-save-faq/projects/8).
 
 
 ### Licença
