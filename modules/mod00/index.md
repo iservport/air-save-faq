@@ -18,3 +18,8 @@
 1. Carta ao [Ministro da Saúde](Gabinete_do_Ministro_Dr_Mandetta.pdf).
 1. Breve [histórico do grupo.](historico.pdf)
 1. Artigo [Época Negócios](https://epocanegocios.globo.com/Empresa/noticia/2020/04/coronavirus-engenheiros-brasileiros-transformam-mascaras-de-mergulho-em-respiradores-para-tratamento-de-pacientes.html)
+
+## Oportunidades de financiamento
+
+1. [Edital MCTIC](http://www.mctic.gov.br/mctic/opencms/salaImprensa/noticias/arquivos/2020/04/MCTIC_lanca_chamada_publica_producao_EPIEPC_biosseguranca_equipes_medicas_e_hospitalares_contra_o_Coronavirus.html)
+
