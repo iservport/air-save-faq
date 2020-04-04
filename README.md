@@ -84,11 +84,6 @@ por favor, faça ou solicite uma atualização.
 [Módulo 8](modules/mod08/index.md): Sistema eletrônico de controle e monitoramento
 
 
-## Como é que eu...
-
-1. Leia / escreva [Markdown] (mn / markdown.md) ([Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/))
-1. Encontre a equipe de exportações [acordos de trabalho] (https://confluence.tools.tax.service.gov.uk/pages/viewpage.action?pageId=152299313) em ** Confluence **
-
 ### Licença
 
 Todos os documentos desse projeto estão sujeitos à Licença Apache 2.0, sendo portanto 
