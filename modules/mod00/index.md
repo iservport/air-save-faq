@@ -19,6 +19,7 @@
 1. Breve [histórico do grupo.](historico.pdf)
 1. Artigo [Época Negócios](https://epocanegocios.globo.com/Empresa/noticia/2020/04/coronavirus-engenheiros-brasileiros-transformam-mascaras-de-mergulho-em-respiradores-para-tratamento-de-pacientes.html)
 1. Site [Vital Connect](https://vitalconnect.com/)
+1. Artigo [Manejo Clínico](sirio-libanes-manejo-clinico) do Hospital Sírio-Libanês 
 
 
 ## Oportunidades de financiamento
