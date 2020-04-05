@@ -65,6 +65,8 @@ por favor, faça ou solicite uma atualização.
 
 # Um FAQ para cada assunto
 
+[Como você pode contribuir](modules/mod00/contribuir.md)
+
 [Patentes e organização](modules/mod00/index.md)
 
 [Processo](process/index.md)
