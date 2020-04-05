@@ -18,6 +18,8 @@
 1. Carta ao [Ministro da Saúde](Gabinete_do_Ministro_Dr_Mandetta.pdf).
 1. Breve [histórico do grupo.](historico.pdf)
 1. Artigo [Época Negócios](https://epocanegocios.globo.com/Empresa/noticia/2020/04/coronavirus-engenheiros-brasileiros-transformam-mascaras-de-mergulho-em-respiradores-para-tratamento-de-pacientes.html)
+1. Site [Vital Connect](https://vitalconnect.com/)
+
 
 ## Oportunidades de financiamento
 
